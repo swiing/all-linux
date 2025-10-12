@@ -30,3 +30,5 @@ graph TB
     Arch-OpenRC --> Artix
     end
 ```
+
+https://www.makeuseof.com/smallest-fastest-linux-distro-works-for-everyday-stuff/
