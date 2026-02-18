@@ -32,3 +32,5 @@ graph TB
 ```
 
 https://www.makeuseof.com/smallest-fastest-linux-distro-works-for-everyday-stuff/
+
+https://www.zdnet.fr/pratique/linux-pratique-atomique-ou-immuable-comment-choisir-votre-type-de-distribution-490267.htm
